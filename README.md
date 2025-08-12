@@ -27,7 +27,15 @@
 <h2>Top musicas de cada compositor classico</2>
 <article><h3>1.Johan Sebastian Bach</h3><p> A musica dele que o colocou a frente em sua fama com toda certeza a composição chamada de A Ária BWV 1068.</p></article>
 <article><h3>2. Wolfgang Amadeus Mozar</h3> A Serenata nº 13 em Sol Maior, K 525, ou "Eine kleine Nachtmusik", como é informalmente conhecida, foi a serenata mais famosa de Mozart e ainda é conhecida.</p></article>
-<article><h3>3. Ludwig Van Beethoven</h3><p>sinfonia coral mais conhecida como Nona Sinfonia ou ainda, A Nona, é uma das obras mais conhecidas do repertório ocidental, considerada tanto ícone quanto predecessora da música romântica, e uma das grandes obras-primas de Beethoven.</p></article>
+<article><h3>3. Ludwig Van Beethoven</h3><p> Sinfonia coral mais conhecida como Nona Sinfonia ou ainda, A Nona, é uma das obras mais conhecidas do repertório ocidental, considerada tanto ícone quanto predecessora da música romântica, e uma das grandes obras-primas de Beethoven.</p></article>
 </section>
 
 <section>
+<h2>Faça Sua Playlisya ou Materias Curiosas Sobre o Mundo Classico</h2>
+<p>Coloque aqui o link da playlist, e se divirta também com a playlist de outras pessoas ao redor do mundo, ou coloque curiosidades como manchetes.</p>
+</section>
+
+<section>
+<h2>Coloque suas composições aqui</2>
+<p>Apoiamos criadores de composições independetes, tem uma partitura independente? mande para nos um video ou foto.</p>
+<img src=">
