@@ -38,4 +38,12 @@
 <section>
 <h2>Coloque suas composições aqui</2>
 <p>Apoiamos criadores de composições independetes, tem uma partitura independente? mande para nos um video ou foto.</p>
-<img src=">
+<img src="imagens/dowload.pnj" alt="imagem exemplar" width="300">
+</section>
+</main>
+
+<foooter>
+<p>Site criado por: João Vitor Machado De Assis | Data: 12/08/2025</p>
+
+</body>
+</html>
