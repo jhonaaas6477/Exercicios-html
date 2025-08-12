@@ -9,7 +9,7 @@
 
 <header>
 <img src="imagens/imagem" alt="imagem dos compositores Johan Sebastian Bach, Wolfgang Amadeus Mozart, Ludwig Van Beethoven" style="width:100%; height:auto;">
-<h1>Portal Classico - Tudo que os amantes de musicas antigas gostam e necessitam!</h1>
+<h1>Portal Classico - Tudo que os amantes de musicas classicas gostam e necessitam!</h1>
 </header>
 
 <nav>
